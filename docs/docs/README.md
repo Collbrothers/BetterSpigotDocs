@@ -1,0 +1,3 @@
+
+
+# BetterSpigotDocs Documentation
