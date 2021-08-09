@@ -2,6 +2,7 @@ module.exports = {
     lang: 'en-US',
     title: 'BetterSpigotDocs',
     description: 'A modern and open source version of Spigot\'s documentation',
+    head: [["script", { src: "https://www.gstatic.com/firebasejs/8.8.1/firebase-app.js"}], ["script", { src: "https://www.gstatic.com/firebasejs/8.8.1/firebase-analytics.js"}]],
     themeConfig: {
         sidebarDepth: 3,
         sidebar: {
